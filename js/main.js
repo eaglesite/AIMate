@@ -212,7 +212,7 @@ $(function () {
         var origText = $btn.text();
         $btn.prop('disabled', true).text(isEN ? 'Submitting...' : '提交中...');
         $.ajax({
-            url: 'http://openapi.eagleclouds.com/api/email',
+            url: 'https://openapi.eagleclouds.com/api/email',
             method: 'POST',
             contentType: 'application/json',
             data: JSON.stringify({ email: email, source: 'newsletter' }),
