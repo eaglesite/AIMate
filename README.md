@@ -1,10 +1,10 @@
 # AiMate — AI Tools Directory & Templates
 
-A bilingual (Chinese/English) static website for discovering AI tools and downloading free templates. Features 520 AI tools across 7 categories, 36 templates across 3 categories, with a Go-powered newsletter subscription API.
+A bilingual (Chinese/English) static website for discovering AI tools and downloading free templates. Features 521 AI tools across 7 categories, 36 templates across 3 categories, with a Go-powered newsletter subscription API.
 
 ## Features
 
-- **520 AI Tools** across Writing, Image, Code, Video, Audio, Productivity, Design categories
+- **521 AI Tools** across Writing, Image, Code, Video, Audio, Productivity, Design categories
 - **36 Templates** across PPT, Resume, Contract categories with links to free resources
 - **Bilingual**: Full Chinese and English versions
 - **Powerful Search**: Unified search across tools and templates with debounced input
